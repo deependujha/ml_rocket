@@ -4,9 +4,9 @@ Regression models (both linear and non-linear) are **used for predicting a real 
 
 In this part, we will learn how to implement the following Machine Learning Regression models:
 
-1. Simple Linear Regression
+1. [Simple Linear Regression](./01_simple_linear_regression/)
 
-2. Multiple Linear Regression
+2. [Multiple Linear Regression](./02_multiple_linear_regression/)
 
 3. Polynomial Regression
 
