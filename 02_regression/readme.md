@@ -8,7 +8,7 @@ In this part, we will learn how to implement the following Machine Learning Regr
 
 2. [Multiple Linear Regression](./02_multiple_linear_regression/)
 
-3. Polynomial Regression
+3. [Polynomial Regression](./03_polynomial_regression/)
 
 4. Support Vector for Regression (SVR)
 

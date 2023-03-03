@@ -24,3 +24,10 @@ Underfitting is when a model does not fit the training data well enough. It is n
 
 We can use the **train-test split** to find out. If the model performs well on the training data, but not on the test data, then it is overfitting. If the model performs poorly on both the training data and the test data, then it is underfitting.
 
+---
+
+## Contents:
+
+### 1. [Data preprocessing](./01_data_preprocessing//)
+
+### 2. [Regression](./02_regression/)
