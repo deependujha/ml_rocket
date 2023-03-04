@@ -21,6 +21,13 @@ Value of **R-squared**:
 
 - **<0 = Very poor**
 
+## code:
+
+```python
+from sklearn.metrics import r2_score
+r2_score(y_test, y_pred)
+```
+
 ---
 
 - ## Adjusted R-squared:
@@ -34,3 +41,13 @@ Value of **R-squared**:
 - To compensate for this, we use the adjusted R-squared. The adjusted R-squared will only increase if the new term improves the model more than would be expected by chance.
 
 ---
+
+
+# How to choose the best model?
+
+- Simply, use all the models you can and compare the **r-squared values**.
+
+- The model with the highest r-squared value is the best model.
+
+## Pros and cons of the different models:
+![Pros and cons of the different models](../../images/02_regression/different_regression_models.png)
