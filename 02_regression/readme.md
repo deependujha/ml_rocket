@@ -10,9 +10,9 @@ In this part, we will learn how to implement the following Machine Learning Regr
 
 3. [Polynomial Regression](./03_polynomial_linear_regression/)
 
-4. Support Vector for Regression (SVR)
+4. [Support Vector for Regression (SVR)](./04_support_vector_regression/)
 
-5. Decision Tree Regression
+5. [Decision Tree Regression](./05_decision_tree_regression/)
 
-6. Random Forest Regression
+6. [Random Forest Regression](./06_random_forest_regression/)
 
