@@ -31,3 +31,5 @@ We can use the **train-test split** to find out. If the model performs well on t
 ### 1. [Data preprocessing](./01_data_preprocessing//)
 
 ### 2. [Regression](./02_regression/)
+
+### 3. [Classification](./03_classification/)
