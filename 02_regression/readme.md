@@ -16,3 +16,4 @@ In this part, we will learn how to implement the following Machine Learning Regr
 
 6. [Random Forest Regression](./06_random_forest_regression/)
 
+7. [Evaluating Regression Model Performance](./07_evaluating_regression_model_performance/)
