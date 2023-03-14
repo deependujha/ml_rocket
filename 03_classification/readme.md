@@ -9,7 +9,7 @@ In this part, we will learn how to implement the following Machine Learning Clas
 
 1. [Logistic Regression](./01_logistic_regression/)
 2. [K-Nearest Neighbors (K-NN)](./02_k-nearest_neighbors/)
-3. Support Vector Machine (SVM)
+3. [Support Vector Machine (SVM)](./03_support_vector_machine/)
 4. Kernel SVM
 5. Naive Bayes
 6. Decision Tree Classification
