@@ -7,7 +7,7 @@ Unlike **regression**, where you **predict a continuous number**, you use ***cla
 In this part, we will learn how to implement the following Machine Learning Classification models:
 
 
-1. Logistic Regression
+1. [Logistic Regression](./01_logistic_regression/)
 2. K-Nearest Neighbors (K-NN)
 3. Support Vector Machine (SVM)
 4. Kernel SVM
