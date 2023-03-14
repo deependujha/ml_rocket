@@ -12,5 +12,5 @@ In this part, we will learn how to implement the following Machine Learning Clas
 3. [Support Vector Machine (SVM)](./03_support_vector_machine/)
 4. [Kernel SVM](./04_kernel_svm/)
 5. [Naive Bayes](./05_naive_bayes/)
-6. Decision Tree Classification
+6. [Decision Tree Classification](./06_decision_tree_classification/)
 7. Random Forest Classification
