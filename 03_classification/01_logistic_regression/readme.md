@@ -74,9 +74,9 @@
 
 - **True Negative (TN):** We predict a label of 0 (negative), and the true label is 0.
 
-- **False Positive (FP):** We predict a label of 1 (positive), but the true label is 0.
+- **False Positive (FP):** We predict a label of 1 (positive), but the true label is 0. Also known as a **"Type I error"**.
 
-- **False Negative (FN):** We predict a label of 0 (negative), but the true label is 1.
+- **False Negative (FN):** We predict a label of 0 (negative), but the true label is 1. Also known as a **"Type II error"**.
 
 - **Accuracy:** Overall, how often is the classifier correct.
 

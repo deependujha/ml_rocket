@@ -14,3 +14,4 @@ In this part, we will learn how to implement the following Machine Learning Clas
 5. [Naive Bayes](./05_naive_bayes/)
 6. [Decision Tree Classification](./06_decision_tree_classification/)
 7. [Random Forest Classification](./07_random_forest_classfication/)
+8. [Evaluating Classification Models Performance](./08_evaluating_classification_models_performance/)
