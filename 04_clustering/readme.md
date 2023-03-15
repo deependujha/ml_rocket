@@ -13,4 +13,10 @@
 In this part, you will understand and learn how to implement the following Machine Learning Clustering models:
 
 1. [K-Means Clustering](./01_k_means_clustering/)
-2. Hierarchical Clustering
+2. [Hierarchical Clustering](./02_hierarchical_clustering/)
+
+---
+
+## K-means Clustering Vs Hierarchical Clustering
+
+![K-means Clustering Vs Hierarchical Clustering](../images/04_clustering/k_means_vs_hierarchical.png)
