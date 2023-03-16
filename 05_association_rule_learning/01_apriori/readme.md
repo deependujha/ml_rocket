@@ -30,6 +30,25 @@ Apriori is an algorithm for learning association rules. It is a **greedy algorit
 
 ---
 
+## Formulae
+
+- **Support**
+![support](../../images/05_association_rule_learning/support.png)
+
+- **Confidence**
+
+![confidence](../../images/05_association_rule_learning/confidence.png)
+
+- **Lift**
+
+![lift](../../images/05_association_rule_learning/lift.png)
+
+- **Algorithm**
+
+![algorithm](../../images/05_association_rule_learning/algorithm.png)
+
+---
+
 ## Notes:
 
 - **Generally, the higher the support and confidence, the better the rule.**
