@@ -37,3 +37,5 @@ We can use the **train-test split** to find out. If the model performs well on t
 ### 4. [Clustering](./04_clustering/)
 
 ### 5. [Association rule learning](./05_association_rule_learning/)
+
+### 6. [Reinforcement learning](./06_reinforcement_learning/)
