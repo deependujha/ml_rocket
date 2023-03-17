@@ -14,10 +14,16 @@
 
 ![rein](../images/06_reinforcement_learning/Reinforcement-learning-real-world-example.png)
 
----
+--- 
 
 In this part, you will understand and learn how to implement the following Reinforcement Learning models:
 
-1. Upper Confidence Bound (UCB)
+1. [Upper Confidence Bound (UCB)](./01_upper_confidence_bound/)
 
-2. Thompson Sampling
+2. [Thompson Sampling](./02_thompson_sampling/)
+
+---
+
+## UCB vs Thompson Sampling
+
+![ucb vs thompson](../images/06_reinforcement_learning/ucb_vs_thompson.png)
